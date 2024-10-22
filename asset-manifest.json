@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/https//bradlygutierrez.github.io/ToDoApp-PlatziCourse/static/css/main.ba190683.css",
+    "main.js": "/https//bradlygutierrez.github.io/ToDoApp-PlatziCourse/static/js/main.6effdb65.js",
+    "static/media/calendario.svg": "/https//bradlygutierrez.github.io/ToDoApp-PlatziCourse/static/media/calendario.71fd54bb2e10cc894d65.svg",
+    "index.html": "/https//bradlygutierrez.github.io/ToDoApp-PlatziCourse/index.html",
+    "static/media/tachado.svg": "/https//bradlygutierrez.github.io/ToDoApp-PlatziCourse/static/media/tachado.247053b95ca66caa2b4cc0b78bc31318.svg",
+    "static/media/flecha.svg": "/https//bradlygutierrez.github.io/ToDoApp-PlatziCourse/static/media/flecha.c1714591d664c9775642971624152ca6.svg",
+    "main.ba190683.css.map": "/https//bradlygutierrez.github.io/ToDoApp-PlatziCourse/static/css/main.ba190683.css.map",
+    "main.6effdb65.js.map": "/https//bradlygutierrez.github.io/ToDoApp-PlatziCourse/static/js/main.6effdb65.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba190683.css",
+    "static/js/main.6effdb65.js"
+  ]
+}
