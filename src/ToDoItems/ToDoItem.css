@@ -1,0 +1,48 @@
+.ToDoItem {
+    display: grid;
+    grid-template-columns: 1fr 5fr 1fr;
+    padding-bottom: 20px;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    width: 90%;
+    background-color: #E2AF9C;
+    border-radius: 30px;
+    padding-top: 4px;
+    padding-left:4px ;
+    padding-right: 4px;
+    padding-bottom: 4px;
+    box-sizing: border-box;
+}
+
+p{
+    font-size: 1.01rem;
+    position: relative;
+    top:5px ;
+    text-align: center;
+}
+
+
+
+@media(min-width: 767px){
+    .ToDoItem{
+        height: 55px;
+    }
+
+    p{
+        font-size: 1.2rem;
+    }
+          
+
+}
+
+@media(min-width: 1025px){
+    .ToDoItem{
+        height: 67px;
+    }
+
+    p{
+        font-size: 1.4rem;
+    }
+
+}

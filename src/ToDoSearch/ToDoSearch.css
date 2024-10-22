@@ -1,0 +1,45 @@
+.searchbar{
+    border-radius: 30px;
+    font-size: 1rem;
+    height: 40px;
+    padding: 7px;
+    text-align: center;
+    width: 80%;
+    opacity: 0.79;
+}
+
+.searchbar:focus{
+    outline-color: #eb7f13;
+    transition: all .4s;
+    height: 45px;
+}
+
+@media(min-width: 767px){
+    .searchbar{
+        height: 55px;
+        font-size: 1.2rem;
+    }
+
+    .searchbar:focus{
+        outline-color: #eb7f13;
+        transition: all .4s;
+        height: 55px;
+        font-size: 1.3rem;
+    }
+}
+
+@media(min-width: 1025px){
+    .searchbar{
+        height: 60px;
+        font-size: 1.4rem;
+    }
+
+    .searchbar:focus{
+        outline-color: #eb7f13;
+        transition: all .4s;
+        height: 67px;
+        font-size: 1.5rem;
+    }
+}
+
+

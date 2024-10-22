@@ -1,0 +1,52 @@
+.CreateToDoButton{
+    background-color: #D7812A;
+    font-weight:lighter;
+    color: white;
+    border:none;
+    border-radius: 50px;
+    height: 35px;
+    width: 30%;
+    font-size: 1rem;
+    margin-bottom: 30px;
+}
+
+.CreateToDoButton:hover{
+    background-color: #eb7f13;
+    cursor: pointer;
+    height: 40px;
+    width: 34%;
+    font-size: 1.1rem;
+    transition: all .3s;
+}
+
+@media(min-width: 767px){
+    .CreateToDoButton{
+        height: 50px;
+        font-size: 1.3rem;
+    }
+    .CreateToDoButton:hover{
+        background-color: #eb7f13;
+        cursor: pointer;
+        height: 55px;
+        width: 33%;
+        font-size: 1.4rem;
+        transition: all .3s;
+    }
+
+}
+
+@media(min-width: 1025px){
+    .CreateToDoButton{
+        height: 60px;
+        font-size: 1.4rem;
+    }
+    .CreateToDoButton:hover{
+        background-color: #eb7f13;
+        cursor: pointer;
+        height: 80px;
+        width: 34%;
+        font-size: 1.5rem;
+        transition: all .3s;
+    }
+
+}

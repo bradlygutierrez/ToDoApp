@@ -1,0 +1,35 @@
+.Icon-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.Icon-container-delete{
+    position: relative;
+    cursor: pointer;
+}
+
+.Icon-container-check{
+    cursor: pointer;
+    position: relative;
+           
+}
+
+.TodoItem-p--completed{
+    text-decoration: line-through;
+}
+
+.Icon-svg{
+    width: 24px;
+    height: 24px;;
+}
+
+.Icon-container-delete:hover .Icon-svg path{
+    fill:red;
+    transition: all .3s;
+}
+
+.Icon-container-check:hover .Icon-svg .cls-1{
+    stroke: green;
+    transition: all .3s;
+}
