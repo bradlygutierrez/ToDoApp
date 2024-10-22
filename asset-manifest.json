@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/ToDoApp/static/css/main.47949fc2.css",
-    "main.js": "/ToDoApp/static/js/main.9a769bd5.js",
-    "static/media/calendario.svg": "/ToDoApp/static/media/calendario.71fd54bb2e10cc894d65.svg",
-    "static/media/tachado.svg": "/ToDoApp/static/media/tachado.247053b95ca66caa2b4cc0b78bc31318.svg",
-    "index.html": "/ToDoApp/index.html",
-    "static/media/flecha.svg": "/ToDoApp/static/media/flecha.c1714591d664c9775642971624152ca6.svg",
-    "main.47949fc2.css.map": "/ToDoApp/static/css/main.47949fc2.css.map",
-    "main.9a769bd5.js.map": "/ToDoApp/static/js/main.9a769bd5.js.map"
+    "main.css": "./static/css/main.2103d289.css",
+    "main.js": "./static/js/main.113a320a.js",
+    "static/media/calendario.svg": "./static/media/calendario.71fd54bb2e10cc894d65.svg",
+    "static/media/tachado.svg": "./static/media/tachado.247053b95ca66caa2b4cc0b78bc31318.svg",
+    "index.html": "./index.html",
+    "static/media/flecha.svg": "./static/media/flecha.c1714591d664c9775642971624152ca6.svg",
+    "main.2103d289.css.map": "./static/css/main.2103d289.css.map",
+    "main.113a320a.js.map": "./static/js/main.113a320a.js.map"
   },
   "entrypoints": [
-    "static/css/main.47949fc2.css",
-    "static/js/main.9a769bd5.js"
+    "static/css/main.2103d289.css",
+    "static/js/main.113a320a.js"
   ]
 }
